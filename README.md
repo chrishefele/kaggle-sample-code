@@ -4,8 +4,9 @@
 
 This repo contains some of the code I've written for Kaggle's Machine Learning competitions in 2010-2016. 
 
-Over time, I gained a Kaggle Competitions Grandmaster rating, and achieved a peak ranking of #4.
+During that time, I gained a Kaggle Competitions Grandmaster rating and was once ranked as the #4 competitor.
 For more information about my record, see: https://www.kaggle.com/chefele
+Most importantly, though, these competitions were very educational & certainly a lot of fun. 
 
 ![](images/grandmaster.png)
 
