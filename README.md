@@ -8,7 +8,7 @@ During that time, I gained a Kaggle Competitions Grandmaster rating and was once
 For more information about my record, see: https://www.kaggle.com/chefele
 Most importantly, though, these competitions were very educational & certainly a lot of fun. 
 
-![](images/grandmaster.png)
+![](images/competitions-grandmaster.png)
 
 ## Competition Details
 
@@ -20,11 +20,12 @@ Much of this code was written very quickly within the limited timeframe for each
 There are certainly messy and inefficient pieces (though to be fair this code was never 
 meant for production, just prototyping). However, there are also some clever pieces, too.
 
-In aggregate, I've written approximately:
+In aggregate, for these competitions, I've written approximately:
 - 45K lines of Python
 - 26K lines of R
 - 4K  lines of Java
 - 3K  lines of bash
 
-In addition, I have some Kaggle 'kernels' code, which can be seen at: https://www.kaggle.com/chefele/kernels
+In addition, I've posted Kaggle 'kernels' code (https://www.kaggle.com/chefele/kernels), 
+as well as some well-received comments and analyses in online discussions (https://www.kaggle.com/chefele/discussion). 
 
