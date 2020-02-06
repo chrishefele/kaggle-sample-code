@@ -17,7 +17,7 @@ I need to fill in more details here, highlighting:
 
 Much of this code was written very quickly within the limited timeframe for each contest.
 There are certainly messy and inefficient pieces (though to be fair this code was never 
-meant for production, just prototyping), and also some clever pieces, too.
+meant for production, just prototyping). However, there are also some clever pieces, too.
 
 In aggregate, I've written approximately:
 - 45K lines of Python
