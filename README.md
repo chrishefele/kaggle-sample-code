@@ -8,7 +8,7 @@ During that time, I gained a Kaggle Competitions Grandmaster rating and was once
 For more information about my work on Kaggle, see: https://www.kaggle.com/chefele
 These competitions were certainly very educational & a lot of fun. 
 
-![](images/competitions-grandmaster-small.png)
+![](images/competitions-grandmaster.png)
 
 ## Competition Details
 
