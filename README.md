@@ -16,7 +16,9 @@ I need to fill in more details here, highlighting:
 - Some particuarly interesting competitions (e.g. the Essay competition)
 - Some particularly clear or clever pieces of code
 
-Much of this code was written very quickly & used solely within the limited timeframe for each contest. 
+One of the great things about Kaggle is that it teaches you to analyze a dataset and get a prototype running extremely quickly.  
+One disadvantage, though, is that the code you write is written very quickly -- and therefore often has
+some room for improvement improvement from a software-engineering perspective. 
 As a result there are some clever bits, but also some messy and inefficient bits that I have not cleaned up. 
 
 In total, for these competitions, I've written approximately:
