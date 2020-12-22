@@ -2,9 +2,10 @@
 
 ![](images/kaggle.png)
 
-This repo contains some of the code I've written for Kaggle's Machine Learning competitions in 2010-2016. 
+This repo contains some of the code I've written for Kaggle's Machine Learning competitions during my most active period (2010-2016). 
 
-During that time, I gained a Kaggle Competitions Grandmaster rating and was once ranked as the #4 competitor.
+During that time, I gained a Kaggle Competitions Grandmaster rating and was once ranked as the #4 competitor (99.99th percentile).
+Unfortunately, the ranking algorithm incorporates a time decay so my current rating has dropped recently.  
 For more information about my work on Kaggle, see: https://www.kaggle.com/chefele
 These competitions were certainly very educational & a lot of fun. 
 
